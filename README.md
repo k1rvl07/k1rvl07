@@ -40,8 +40,8 @@
 ![Gulp](  https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=white)
 ![Next.js](  https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Prisma](  https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
-![Amazon S3](  https://img.shields.io/badge/-S3-569A31?logo=amazon-aws&logoColor=white)
-![Zustand](  https://img.shields.io/badge/-Zustand-FA4F56?logo=zustand&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/-Amazon_S3-569A31?logo=amazons3&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=zotero&logoColor=white)
 
 ### 🟢 Базовый уровень:
 ![NestJS](  https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
