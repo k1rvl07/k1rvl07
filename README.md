@@ -83,6 +83,12 @@
 ---
 
 ## 📊 GitHub статистика:
+
+#### 🏫 Наиболее используемые языки
+![GitHub Languages]( https://github-readme-stats.vercel.app/api/top-langs/?username=k1rvl07&layout=compact&theme=radical)
+
+
+#### 📦 Статистика репозиториев
 ![GitHub Stats]( https://github-readme-stats.vercel.app/api?username=k1rvl07&show_icons=true&theme=tokyonight)
 
 ---
