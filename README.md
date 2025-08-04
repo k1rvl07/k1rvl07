@@ -29,6 +29,7 @@
 ![Figma](  https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Vite](  https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![Git](  https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![PostCSS](https://img.shields.io/badge/-PostCSS-012751?logo=PostCSS&logoColor=white)
 
 ### 🟡 Средний уровень:
 ![React](  https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
