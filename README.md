@@ -46,14 +46,14 @@
 ![Zustand](  https://img.shields.io/badge/-Zustand-FA4F56?logo=zustand&logoColor=white)
 ![MUI](https://img.shields.io/badge/-MUI-0081CB?logo=mui&logoColor=white)
 ![GORM](https://img.shields.io/badge/-GORM-00ADD8?logo=go&logoColor=white)
+![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-A10035?logo=gin&logoColor=white)
 
 ### 🟢 Базовый уровень:
 ![NestJS](  https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Redis](  https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Docker](  https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![PHP](  https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/-Gin-A10035?logo=gin&logoColor=white)
 
 ---
 
