@@ -1,6 +1,6 @@
 # Привет, я **Кирилл Королёв**! 👋
 
-🎯 **Frontend-разработчик | Junior**  
+🎯 **Frontend/Backend/Fullstack-разработчик | Junior/Junior+**  
 📍 Москва / Московская область  
 📅 Активно ищу работу  
 📧 [kirkorol07@gmail.com](mailto:kirkorol07@gmail.com)  
