@@ -30,6 +30,7 @@
 ![Vite](  https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![Git](  https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-012751?logo=PostCSS&logoColor=white)
+![Goose](https://img.shields.io/badge/-Goose-00ADD8?logo=go&logoColor=white)
 
 ### 🟡 Средний уровень:
 ![React](  https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -40,10 +41,11 @@
 ![Express](  https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Gulp](  https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=white)
 ![Next.js](  https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Prisma](  https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![PrismaORM](  https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 ![Amazon S3](  https://img.shields.io/badge/-Amazon_S3-569A31?logo=amazon-aws&logoColor=white)
 ![Zustand](  https://img.shields.io/badge/-Zustand-FA4F56?logo=zustand&logoColor=white)
 ![MUI](https://img.shields.io/badge/-MUI-0081CB?logo=mui&logoColor=white)
+![GORM](https://img.shields.io/badge/-GORM-00ADD8?logo=go&logoColor=white)
 
 ### 🟢 Базовый уровень:
 ![NestJS](  https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
