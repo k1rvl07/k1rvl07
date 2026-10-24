@@ -1,37 +1,37 @@
 {
- "key": "5bd26d9c",
+ "key": "9a2cc66a",
  "stars": 3,
- "contributions": 61,
- "repos": 15,
+ "contributions": 456,
+ "repos": 18,
  "followers": 3,
  "languages": [
+  [
+   "Go",
+   1001193
+  ],
+  [
+   "TypeScript",
+   549993
+  ],
   [
    "SCSS",
    319303
   ],
   [
    "HTML",
-   305216
+   309071
   ],
   [
    "JavaScript",
-   275422
+   276678
   ],
   [
    "CSS",
-   185673
+   187760
   ],
   [
-   "TypeScript",
-   148210
-  ],
-  [
-   "Go",
-   144143
-  ],
-  [
-   "Rust",
-   43538
+   "Vue",
+   169807
   ]
  ],
  "days": [
@@ -67,7 +67,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 10,
     "today": false
    }
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 18,
     "day": 24,
     "today": true
    }
@@ -149,13 +149,13 @@
  ],
  "streak": {
   "current": 2,
-  "longest": 3
+  "longest": 5
  },
  "pins": [
   {
    "name": "404chan-frontend",
    "url": "https://github.com/k1rvl07/404chan-frontend",
-   "text": "https://github.com/k1rvl07/404chan-backend",
+   "text": "Next.js frontend for 404chan anonymous imageboard. TypeScript, React 19, Tailwind CSS, Ant Design, Zustand, TanStack Query, Socket.IO.",
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
@@ -164,7 +164,7 @@
   {
    "name": "404chan-backend",
    "url": "https://github.com/k1rvl07/404chan-backend",
-   "text": "https://github.com/k1rvl07/404chan-frontend",
+   "text": "REST + WebSocket API for 404chan anonymous imageboard. Built with Go, Gin, GORM, PostgreSQL, Redis, MinIO and gorilla/websocket.",
    "fork": false,
    "stars": 0,
    "language": "Go",
@@ -186,6 +186,24 @@
     "p2p",
     "rust"
    ]
+  },
+  {
+   "name": "tandem-backend",
+   "url": "https://github.com/k1rvl07/tandem-backend",
+   "text": "REST + WebSocket API for Tandem collaborative kanban. Built with Go, Gin, GORM, PostgreSQL, Redis, MinIO and gorilla/websocket.",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "tandem-frontend",
+   "url": "https://github.com/k1rvl07/tandem-frontend",
+   "text": "Vue 3 SPA for Tandem collaborative kanban. TypeScript, Vite, Pinia, Tailwind CSS, vue-draggable-plus.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
   }
  ],
  "all": [
@@ -209,7 +227,7 @@
   {
    "name": "404chan-frontend",
    "url": "https://github.com/k1rvl07/404chan-frontend",
-   "text": "https://github.com/k1rvl07/404chan-backend",
+   "text": "Next.js frontend for 404chan anonymous imageboard. TypeScript, React 19, Tailwind CSS, Ant Design, Zustand, TanStack Query, Socket.IO.",
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
@@ -218,7 +236,34 @@
   {
    "name": "404chan",
    "url": "https://github.com/k1rvl07/404chan",
-   "text": "",
+   "text": "Anonymous imageboard monorepo. Go + Gin backend, Next.js 15 + React 19 frontend, PostgreSQL, Redis, MinIO, Docker.",
+   "fork": false,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "tandem-frontend",
+   "url": "https://github.com/k1rvl07/tandem-frontend",
+   "text": "Vue 3 SPA for Tandem collaborative kanban. TypeScript, Vite, Pinia, Tailwind CSS, vue-draggable-plus.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "tandem-backend",
+   "url": "https://github.com/k1rvl07/tandem-backend",
+   "text": "REST + WebSocket API for Tandem collaborative kanban. Built with Go, Gin, GORM, PostgreSQL, Redis, MinIO and gorilla/websocket.",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "Tandem",
+   "url": "https://github.com/k1rvl07/Tandem",
+   "text": "Realtime kanban monorepo. Go + Gin backend, Vue 3 + TypeScript frontend, PostgreSQL, Redis, MinIO, Docker.",
    "fork": false,
    "stars": 0,
    "language": "Makefile",
@@ -236,7 +281,7 @@
   {
    "name": "404chan-backend",
    "url": "https://github.com/k1rvl07/404chan-backend",
-   "text": "https://github.com/k1rvl07/404chan-frontend",
+   "text": "REST + WebSocket API for 404chan anonymous imageboard. Built with Go, Gin, GORM, PostgreSQL, Redis, MinIO and gorilla/websocket.",
    "fork": false,
    "stars": 0,
    "language": "Go",
