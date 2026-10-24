@@ -1,0 +1,314 @@
+{
+  "version": 1,
+  "login": "k1rvl07",
+  "seed": "#3DAA6B",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Привет, я",
+    "name": " Кирилл",
+    "subtitle": "Fullstack-разработчик cоздаю веб-приложения, API и CLI/TUI-инструменты ",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Москва"
+      },
+      {
+        "icon": "code",
+        "label": "TypeScript · Go · Rust"
+      }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Fullstack-разработчик, доводящий идеи до рабочего решения"
+      },
+      {
+        "icon": "terminal",
+        "label": "Создаю веб-приложения, API и CLI-инструменты"
+      },
+      {
+        "icon": "layers",
+        "label": "Проектирую с упором на чистую архитектуру и автоматизацию"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Стек",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust (no_std)"
+          },
+          {
+            "icon": "brand:espressif",
+            "label": "ESP32"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch"
+          },
+          {
+            "icon": "brand:cachyos",
+            "label": "CachyOS"
+          }
+        ]
+      },
+      {
+        "title": "Frontend",
+        "items": [
+          {
+            "icon": "brand:html5",
+            "label": "HTML5"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS3"
+          },
+          {
+            "icon": "brand:sass",
+            "label": "SCSS/Sass"
+          },
+          {
+            "icon": "brand:postcss",
+            "label": "PostCSS"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:vuedotjs",
+            "label": "Vue 3"
+          },
+          {
+            "icon": "brand:vite",
+            "label": "Vite"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "Tailwind CSS"
+          },
+          {
+            "icon": "brand:bootstrap",
+            "label": "Bootstrap"
+          },
+          {
+            "icon": "brand:mui",
+            "label": "MUI"
+          },
+          {
+            "icon": "brand:antdesign",
+            "label": "Ant Design"
+          },
+          {
+            "icon": "brand:pinia",
+            "label": "Pinia"
+          },
+          {
+            "icon": "brand:tanstack",
+            "label": "TanStack Query"
+          }
+        ]
+      },
+      {
+        "title": "Backend",
+        "items": [
+          {
+            "icon": "brand:gin",
+            "label": "Gin"
+          },
+          {
+            "icon": "brand:go",
+            "label": "GORM"
+          },
+          {
+            "icon": "brand:prisma",
+            "label": "Prisma ORM"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          },
+          {
+            "icon": "brand:express",
+            "label": "Express.js"
+          },
+          {
+            "icon": "brand:nestjs",
+            "label": "NestJS"
+          },
+          {
+            "icon": "api",
+            "label": "REST API"
+          },
+          {
+            "icon": "live_tv",
+            "label": " WebSocket"
+          },
+          {
+            "icon": "key",
+            "label": "JWT"
+          }
+        ]
+      },
+      {
+        "title": "DB / Infrastructure",
+        "items": [
+          {
+            "icon": "brand:postgresql",
+            "label": "PostgreSQL"
+          },
+          {
+            "icon": "brand:mysql",
+            "label": "MySQL"
+          },
+          {
+            "icon": "brand:redis",
+            "label": "Redis"
+          },
+          {
+            "icon": "brand:minio",
+            "label": "MinIO"
+          }
+        ]
+      },
+      {
+        "title": "DevOps",
+        "items": [
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker Compose"
+          },
+          {
+            "icon": "brand:gnu",
+            "label": "Makefile"
+          },
+          {
+            "icon": "cloud",
+            "label": "Air"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:github",
+            "label": "GitHub"
+          },
+          {
+            "icon": "brand:swagger",
+            "label": "Swagger/OpenAPI"
+          },
+          {
+            "icon": "brand:biome",
+            "label": "Biome"
+          },
+          {
+            "icon": "brand:tmux",
+            "label": "Zelij"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "404chan",
+      "warpdrop"
+    ],
+    "overrides": {
+      "404chan": {
+        "icon": "chat"
+      }
+    },
+    "empty": "Описания пока нет.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/k1rvl_01"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "Все репозитории",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
