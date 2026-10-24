@@ -21,7 +21,7 @@
   "hero": {
     "greeting": "Привет, я",
     "name": " Кирилл",
-    "subtitle": "Fullstack-разработчик cоздаю веб-приложения, API и CLI/TUI-инструменты ",
+    "subtitle": "Fullstack-разработчик cоздаю веб-приложения, API и CLI/TUI-инструменты",
     "typing": true,
     "avatarShape": "cookie",
     "chips": [
@@ -261,12 +261,24 @@
   "projects": {
     "source": "manual",
     "repos": [
-      "404chan",
-      "warpdrop"
+      "warpdrop",
+      "tandem-frontend",
+      "tandem-backend",
+      "404chan-backend",
+      "404chan-frontend"
     ],
     "overrides": {
       "404chan": {
         "icon": "chat"
+      },
+      "Tandem": {
+        "icon": "add_task"
+      },
+      "404chan-frontend": {
+        "icon": "brand:typescript"
+      },
+      "warpdrop": {
+        "icon": "brand:rust"
       }
     },
     "empty": "Описания пока нет.",
