@@ -1,0 +1,345 @@
+{
+ "key": "35711af6",
+ "stars": 3,
+ "contributions": 60,
+ "repos": 15,
+ "followers": 3,
+ "languages": [
+  [
+   "SCSS",
+   319303
+  ],
+  [
+   "HTML",
+   305216
+  ],
+  [
+   "JavaScript",
+   275422
+  ],
+  [
+   "CSS",
+   185673
+  ],
+  [
+   "TypeScript",
+   148210
+  ],
+  [
+   "Go",
+   144143
+  ],
+  [
+   "Rust",
+   43538
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 24,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 3
+ },
+ "pins": [
+  {
+   "name": "404chan-frontend",
+   "url": "https://github.com/k1rvl07/404chan-frontend",
+   "text": "https://github.com/k1rvl07/404chan-backend",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "404chan-backend",
+   "url": "https://github.com/k1rvl07/404chan-backend",
+   "text": "https://github.com/k1rvl07/404chan-frontend",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "warpdrop",
+   "url": "https://github.com/k1rvl07/warpdrop",
+   "text": "WarpDrop — Secure P2P file transfer with AES-256-GCM encryption, Zstandard compression, mDNS discovery, and NAT traversal via WebSocket relay. One command to send, one to receive.",
+   "fork": false,
+   "stars": 2,
+   "language": "Rust",
+   "topics": [
+    "cli",
+    "comand-line",
+    "encryption",
+    "file-transfer",
+    "networking",
+    "p2p",
+    "rust"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "warpdrop",
+   "url": "https://github.com/k1rvl07/warpdrop",
+   "text": "WarpDrop — Secure P2P file transfer with AES-256-GCM encryption, Zstandard compression, mDNS discovery, and NAT traversal via WebSocket relay. One command to send, one to receive.",
+   "fork": false,
+   "stars": 2,
+   "language": "Rust",
+   "topics": [
+    "cli",
+    "comand-line",
+    "encryption",
+    "file-transfer",
+    "networking",
+    "p2p",
+    "rust"
+   ]
+  },
+  {
+   "name": "404chan-frontend",
+   "url": "https://github.com/k1rvl07/404chan-frontend",
+   "text": "https://github.com/k1rvl07/404chan-backend",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "404chan",
+   "url": "https://github.com/k1rvl07/404chan",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "test-task--event-booking-api",
+   "url": "https://github.com/k1rvl07/test-task--event-booking-api",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "404chan-backend",
+   "url": "https://github.com/k1rvl07/404chan-backend",
+   "text": "https://github.com/k1rvl07/404chan-frontend",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "Coca",
+   "url": "https://github.com/k1rvl07/Coca",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "RobinW",
+   "url": "https://github.com/k1rvl07/RobinW",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Feb",
+   "url": "https://github.com/k1rvl07/Feb",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Ink.House",
+   "url": "https://github.com/k1rvl07/Ink.House",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "SCSS",
+   "topics": []
+  },
+  {
+   "name": "CozyPlace",
+   "url": "https://github.com/k1rvl07/CozyPlace",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "AURA",
+   "url": "https://github.com/k1rvl07/AURA",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "simple",
+   "url": "https://github.com/k1rvl07/simple",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": [
+    "scss"
+   ]
+  },
+  {
+   "name": "rumtibet",
+   "url": "https://github.com/k1rvl07/rumtibet",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": [
+    "scss"
+   ]
+  },
+  {
+   "name": "landingTailwind",
+   "url": "https://github.com/k1rvl07/landingTailwind",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": [
+    "tailwindcss"
+   ]
+  },
+  {
+   "name": "k1rvl07",
+   "url": "https://github.com/k1rvl07/k1rvl07",
+   "text": "Config files for my GitHub profile.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "config",
+    "github-config"
+   ]
+  }
+ ]
+}
