@@ -280,6 +280,9 @@
       },
       "warpdrop": {
         "icon": "brand:rust"
+      },
+      "QuipuChip": {
+        "icon": "brand:espressif"
       }
     },
     "empty": "Описания пока нет.",
