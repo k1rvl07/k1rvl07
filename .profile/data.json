@@ -1,7 +1,7 @@
 {
- "key": "10499360",
+ "key": "3238373e",
  "stars": 3,
- "contributions": 491,
+ "contributions": 492,
  "repos": 19,
  "followers": 3,
  "languages": [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 8,
+    "c": 9,
     "day": 25,
     "today": true
    },
@@ -128,24 +128,6 @@
   "longest": 6
  },
  "pins": [
-  {
-   "name": "404chan-frontend",
-   "url": "https://github.com/k1rvl07/404chan-frontend",
-   "text": "Next.js frontend for 404chan anonymous imageboard. TypeScript, React 19, Tailwind CSS, Ant Design, Zustand, TanStack Query, Socket.IO.",
-   "fork": false,
-   "stars": 1,
-   "language": "TypeScript",
-   "topics": []
-  },
-  {
-   "name": "404chan-backend",
-   "url": "https://github.com/k1rvl07/404chan-backend",
-   "text": "REST + WebSocket API for 404chan anonymous imageboard. Built with Go, Gin, GORM, PostgreSQL, Redis, MinIO and gorilla/websocket.",
-   "fork": false,
-   "stars": 0,
-   "language": "Go",
-   "topics": []
-  },
   {
    "name": "warpdrop",
    "url": "https://github.com/k1rvl07/warpdrop",
@@ -164,6 +146,35 @@
    ]
   },
   {
+   "name": "QuipuChip",
+   "url": "https://github.com/k1rvl07/QuipuChip",
+   "text": "Air-gapped offline password manager on ESP32-S3 with local HTTPS web UI over USB-NCM, encrypted vault, TOTP, key-file support and KeePass (.kdbx) import/export.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "aes-gcm",
+    "air-gapped",
+    "cryptography",
+    "embassy",
+    "embedded",
+    "esp32",
+    "esp32-s3",
+    "kdbx",
+    "keepass",
+    "offline"
+   ]
+  },
+  {
+   "name": "tandem-frontend",
+   "url": "https://github.com/k1rvl07/tandem-frontend",
+   "text": "Vue 3 SPA for Tandem collaborative kanban. TypeScript, Vite, Pinia, Tailwind CSS, vue-draggable-plus.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
    "name": "tandem-backend",
    "url": "https://github.com/k1rvl07/tandem-backend",
    "text": "REST + WebSocket API for Tandem collaborative kanban. Built with Go, Gin, GORM, PostgreSQL, Redis, MinIO and gorilla/websocket.",
@@ -173,12 +184,21 @@
    "topics": []
   },
   {
-   "name": "tandem-frontend",
-   "url": "https://github.com/k1rvl07/tandem-frontend",
-   "text": "Vue 3 SPA for Tandem collaborative kanban. TypeScript, Vite, Pinia, Tailwind CSS, vue-draggable-plus.",
+   "name": "404chan-frontend",
+   "url": "https://github.com/k1rvl07/404chan-frontend",
+   "text": "Next.js frontend for 404chan anonymous imageboard. TypeScript, React 19, Tailwind CSS, Ant Design, Zustand, TanStack Query, Socket.IO.",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "404chan-backend",
+   "url": "https://github.com/k1rvl07/404chan-backend",
+   "text": "REST + WebSocket API for 404chan anonymous imageboard. Built with Go, Gin, GORM, PostgreSQL, Redis, MinIO and gorilla/websocket.",
    "fork": false,
    "stars": 0,
-   "language": "TypeScript",
+   "language": "Go",
    "topics": []
   }
  ],
