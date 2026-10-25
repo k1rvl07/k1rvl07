@@ -262,10 +262,11 @@
     "source": "manual",
     "repos": [
       "warpdrop",
+      "QuipuChip",
       "tandem-frontend",
       "tandem-backend",
-      "404chan-backend",
-      "404chan-frontend"
+      "404chan-frontend",
+      "404chan-backend"
     ],
     "overrides": {
       "404chan": {
