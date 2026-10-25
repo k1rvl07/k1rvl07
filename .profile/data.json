@@ -1,7 +1,7 @@
 {
- "key": "c4a03538",
+ "key": "16cadc19",
  "stars": 3,
- "contributions": 458,
+ "contributions": 490,
  "repos": 19,
  "followers": 3,
  "languages": [
@@ -10,54 +10,54 @@
    1001193
   ],
   [
+   "Rust",
+   568150
+  ],
+  [
    "TypeScript",
    549993
+  ],
+  [
+   "JavaScript",
+   364843
+  ],
+  [
+   "HTML",
+   344387
   ],
   [
    "SCSS",
    319303
   ],
   [
-   "HTML",
-   309071
-  ],
-  [
-   "JavaScript",
-   276678
-  ],
-  [
    "CSS",
-   187760
-  ],
-  [
-   "Vue",
-   169807
+   202209
   ]
  ],
  "days": [
   [
    {
-    "c": 0,
+    "c": 2,
     "day": 11,
     "today": false
    },
    {
-    "c": 0,
+    "c": 14,
     "day": 12,
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 13,
     "today": false
    },
    {
-    "c": 0,
+    "c": 4,
     "day": 14,
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 15,
     "today": false
    },
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 1,
+    "c": 7,
     "day": 25,
     "today": true
    },
@@ -125,7 +125,7 @@
  ],
  "streak": {
   "current": 3,
-  "longest": 5
+  "longest": 6
  },
  "pins": [
   {
@@ -212,11 +212,22 @@
   {
    "name": "QuipuChip",
    "url": "https://github.com/k1rvl07/QuipuChip",
-   "text": "",
+   "text": "Air-gapped offline password manager on ESP32-S3 with local HTTPS web UI over USB-NCM, encrypted vault, TOTP, key-file support and KeePass (.kdbx) import/export.",
    "fork": false,
    "stars": 0,
-   "language": null,
-   "topics": []
+   "language": "Rust",
+   "topics": [
+    "aes-gcm",
+    "air-gapped",
+    "cryptography",
+    "embassy",
+    "embedded",
+    "esp32",
+    "esp32-s3",
+    "kdbx",
+    "keepass",
+    "offline"
+   ]
   },
   {
    "name": "404chan",
