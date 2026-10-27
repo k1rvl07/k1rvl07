@@ -1,5 +1,5 @@
 {
- "key": "ee920b1d",
+ "key": "799af339",
  "stars": 3,
  "contributions": 492,
  "repos": 19,
@@ -118,9 +118,13 @@
    {
     "c": 0,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -128,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 0,
   "longest": 6
  },
  "pins": [
