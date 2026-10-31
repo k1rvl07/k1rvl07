@@ -1,5 +1,5 @@
 {
- "key": "2206d021",
+ "key": "de60a400",
  "stars": 3,
  "contributions": 492,
  "repos": 19,
@@ -138,9 +138,13 @@
    {
     "c": 0,
     "day": 30,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 31,
+    "today": true
+   }
   ]
  ],
  "streak": {
