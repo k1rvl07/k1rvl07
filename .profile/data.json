@@ -1,5 +1,5 @@
 {
- "key": "de60a400",
+ "key": "b1557be",
  "stars": 3,
  "contributions": 492,
  "repos": 19,
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 2,
-    "day": 11,
-    "today": false
-   },
-   {
-    "c": 14,
-    "day": 12,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 13,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 14,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 15,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 16,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 17,
-    "today": false
-   }
-  ],
   [
    {
     "c": 0,
@@ -143,8 +106,21 @@
    {
     "c": 0,
     "day": 31,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
