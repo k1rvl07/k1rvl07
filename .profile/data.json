@@ -1,5 +1,5 @@
 {
- "key": "9788fad6",
+ "key": "53e2ceb5",
  "stars": 3,
  "contributions": 488,
  "repos": 19,
@@ -123,9 +123,13 @@
    {
     "c": 0,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
